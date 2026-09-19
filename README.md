@@ -4,7 +4,7 @@ My personal portfolio website, built to showcase my projects, technical skills, 
 
 🔗 **Live site:** https://shivamsolves.github.io/Shivam-Professional-Portfolio/
 
-![Portfolio preview](assets/images/preview.png)
+![Portfolio preview](Portfolio_Preview.png)
 
 ## Sections
 - **About:** who I am and what I do
