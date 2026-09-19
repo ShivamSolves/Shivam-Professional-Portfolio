@@ -11,9 +11,8 @@ My personal portfolio website, built to showcase my projects, technical skills, 
 
 ## Preview
 
-![Hero section](Portfolio_Preview.png)
-
-![About section](Preview_2.png)
+<img width="1917" height="892" alt="Portfolio Preview" src="https://github.com/user-attachments/assets/35c7f11b-935e-48e6-9f99-46bebdd58ff8" /> 
+<img width="1917" height="895" alt="Preview 2" src="https://github.com/user-attachments/assets/e9a0c276-6eb4-4718-8aa7-d44f17d6e305" />
 
 ## Sections
 
