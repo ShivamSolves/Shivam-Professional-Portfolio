@@ -574,7 +574,7 @@ function initBootSequence() {
 
   const lines = [
     { type: 'cmd',  prompt: 'visitor@portfolio:~$', cmd: 'whoami' },
-    { type: 'out',  text: 'YourName — CS Engineer',  cls: 'green' },
+    { type: 'out',  text: "Developer's name - Shivam Prakash",  cls: 'green' },
     { type: 'cmd',  prompt: 'visitor@portfolio:~$', cmd: 'cat skills.txt' },
     { type: 'out',  text: 'Python · JavaScript · C++ · React · Node.js', cls: '' },
     { type: 'out',  text: 'Docker · Linux · Git · Cloud · SQL',           cls: '' },
@@ -820,7 +820,7 @@ function initProjectFilter() {
       btn.classList.add('active');
       const f = btn.dataset.filter;
       cards.forEach(card => {
-        const show = f === 'all' || card.dataset.category === f;
+        const show = f === 'all' || card.dataset.category.split(' ').includes(f);
         if (show) {
           card.classList.remove('hidden');
           card.style.opacity = '0'; card.style.transform = 'translateY(16px)';
