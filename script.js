@@ -644,11 +644,11 @@ function initTyped() {
   if (!el) return;
 
   const roles = [
-    'CS Engineer',
+    'Automation Geek',
     'AI Enthusiast',
-    'Systems Programmer',
+    'Machine Learning Tinkerer',
     'Problem Solver',
-    'Open Source Dev',
+    'Lifelong Learner',
   ];
 
   let ri = 0, ci = 0, deleting = false;
